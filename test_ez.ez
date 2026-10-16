@@ -1,0 +1,18 @@
+let a = 10
+let b = 3
+let c = a + b
+let d = a - b
+let e = a * b
+let f = a / b
+if c > 5
+    print "c is greater than 5"
+else
+    print "c is 5 or less"
+end
+let g = 0
+while g < 3
+    let g = g + 1
+end
+print "g final: " + g
+let name = "EZ Language"
+print "Hello, " + name
